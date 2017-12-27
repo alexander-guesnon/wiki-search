@@ -1,6 +1,6 @@
 # Wiki-Search
 
-"[Wiki-Search](https://alexgooz.github.io/wiki-search/)" allows you to search Wikipedia for articles and click a button to get a random Wikipedia article. This is all done using the *[Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)*. I made this for a freeCodeCamp challenge (Build a Wikipedia Viewer).
+"[Wiki-Search](https://alexander-guesnon.github.io/wiki-search/)" allows you to search Wikipedia for articles and click a button to get a random Wikipedia article. This is all done using the *[Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)*. I made this for a freeCodeCamp challenge (Build a Wikipedia Viewer).
 
 ## Outline
 
